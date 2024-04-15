@@ -22,43 +22,19 @@
             }
           },
           {
-            "id": "bca7aa90902ec367",
+            "id": "43600790827f6abd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Concepts/Postprocessing/Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae528d677b40de22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/NeuralNetwork/Neural Network.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5949905ccfa4d6a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -187,10 +163,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5949905ccfa4d6a0",
+  "active": "43600790827f6abd",
   "lastOpenFiles": [
+    "Neural Network.md",
+    "Network/Concepts/Postprocessing/Validation.md",
     "Network/NeuralNetwork/Neural Network.md",
-    "README.md.md",
+    "README.md",
     "Network/Concepts/Backwardpropagation/Backward Propagation.md",
     "Network/Concepts/Optimization/Optimization.md",
     "Network/Concepts/Preprocessing/Initialization/Initialization.md",
@@ -201,8 +179,6 @@
     "Network/Concepts/Backwardpropagation/Gradient Descent/Batch Gradient Descent.md",
     "Network/Concepts/Forwardpropagation/Forward Propagation.md",
     "Network/Concepts/Preprocessing/Initialization",
-    "Neural Network.md",
-    "Network/Concepts/Postprocessing/Validation.md",
     "Network/Concepts/Preprocessing/Hyperparameter.md",
     "Network/Concepts/Postprocessing",
     "Network/Concepts/Preprocessing",
