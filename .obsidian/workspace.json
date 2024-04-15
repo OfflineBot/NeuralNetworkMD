@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "c48e75e417dccce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fad279eb6ce89f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d00f202e14c2aa1b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bca7aa90902ec367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/Concepts/Postprocessing/Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae528d677b40de22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/NeuralNetwork/Neural Network.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5949905ccfa4d6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab85892d22636191",
+    "type": "split",
+    "children": [
+      {
+        "id": "1499bb08ad1f5190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b97f2961a6f8c2b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ec780f8897d5e9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b796474f137bbbb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8a3d78d7c9c487a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3de4e4f4b0fac89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16d940e7401ab9b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfa0c94e788fca15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f33cc4d54602f80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13c4683468e18933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "5949905ccfa4d6a0",
+  "lastOpenFiles": [
+    "Network/NeuralNetwork/Neural Network.md",
+    "README.md.md",
+    "Network/Concepts/Backwardpropagation/Backward Propagation.md",
+    "Network/Concepts/Optimization/Optimization.md",
+    "Network/Concepts/Preprocessing/Initialization/Initialization.md",
+    "Network/Concepts/Preprocessing/Normalization/Normalization.md",
+    "Network/Concepts/Backwardpropagation/Gradient Descent/Gradient Descent.md",
+    "Network/Concepts/Backwardpropagation/Gradient Descent/Mini-Batch Gradient Descent.md",
+    "Network/Concepts/Backwardpropagation/Gradient Descent/Direct Gradient Computation.md",
+    "Network/Concepts/Backwardpropagation/Gradient Descent/Batch Gradient Descent.md",
+    "Network/Concepts/Forwardpropagation/Forward Propagation.md",
+    "Network/Concepts/Preprocessing/Initialization",
+    "Neural Network.md",
+    "Network/Concepts/Postprocessing/Validation.md",
+    "Network/Concepts/Preprocessing/Hyperparameter.md",
+    "Network/Concepts/Postprocessing",
+    "Network/Concepts/Preprocessing",
+    "Network/Concepts/Training/Training.md",
+    "Network/Concepts/Preprocessing/Hyperparameter",
+    "Network/Concepts/Untitled.md",
+    "Network/Math/Matrix/Operations/Matrix Elementwise Operations.md",
+    "Network/Math/Matrix/Operations/Matrix Mean.md",
+    "Network/Math/Matrix/Operations/Matrix Multiplication.md",
+    "Network/Math/Matrix/Operations/Matrix Standard Deviation.md",
+    "Network/Concepts/Activation Function/Activation Function.md",
+    "Network/Concepts/Training",
+    "Network/Concepts/Preprocessing/Normalization/Decimal Scaling.md",
+    "Network/Concepts/Optimization",
+    "Network/Concepts/Gradient Descent/SDG.md",
+    "Network/Concepts/Preprocessing/Normalization/Z-Score Normalization.md",
+    "Network/Concepts/Preprocessing/Normalization/Min-Max Normalization.md",
+    "Network/Concepts/Backwardpropagation/Loss/MSE-Loss.md",
+    "Network/Definitions",
+    "Network/NeuralNetwork",
+    "Network/Math/Matrix/Operations",
+    "Network/Math/Matrix"
+  ]
+}
