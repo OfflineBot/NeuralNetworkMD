@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "43600790827f6abd",
+            "id": "baa12e96d7dd2d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Neural Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Neural Network.md"
               }
             }
           }
@@ -163,43 +163,42 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "43600790827f6abd",
+  "active": "baa12e96d7dd2d06",
   "lastOpenFiles": [
+    "Fully Connected/Concepts/Neural Network.md",
+    "Network/Untitled",
     "Neural Network.md",
-    "Network/Concepts/Postprocessing/Validation.md",
-    "Network/NeuralNetwork/Neural Network.md",
+    "Fully Connected/Concepts/Optimization/Stochastic Gradient Descent.md",
+    "Fully Connected/Concepts/Optimization/Optimization.md",
+    "Fully Connected/Concepts/Backwardpropagation/Backward Propagation.md",
+    "Fully Connected/Concepts/Backwardpropagation/Gradient Descent/Direct Gradient Computation.md",
+    "Fully Connected/Concepts/Backwardpropagation/Gradient Descent/Gradient Descent.md",
+    "Convolution/Kernel/Backpropagation.md",
+    "Convolution/Kernel/Kernel.md",
+    "Convolution/Kernel",
+    "Untitled",
+    "Convolution",
     "README.md",
-    "Network/Concepts/Backwardpropagation/Backward Propagation.md",
-    "Network/Concepts/Optimization/Optimization.md",
-    "Network/Concepts/Preprocessing/Initialization/Initialization.md",
-    "Network/Concepts/Preprocessing/Normalization/Normalization.md",
-    "Network/Concepts/Backwardpropagation/Gradient Descent/Gradient Descent.md",
+    "Fully Connected/Concepts/Postprocessing/Validation.md",
+    "Fully Connected/Concepts/Preprocessing/Initialization/Initialization.md",
+    "Fully Connected/Concepts/Preprocessing/Normalization/Normalization.md",
     "Network/Concepts/Backwardpropagation/Gradient Descent/Mini-Batch Gradient Descent.md",
-    "Network/Concepts/Backwardpropagation/Gradient Descent/Direct Gradient Computation.md",
     "Network/Concepts/Backwardpropagation/Gradient Descent/Batch Gradient Descent.md",
-    "Network/Concepts/Forwardpropagation/Forward Propagation.md",
-    "Network/Concepts/Preprocessing/Initialization",
-    "Network/Concepts/Preprocessing/Hyperparameter.md",
-    "Network/Concepts/Postprocessing",
-    "Network/Concepts/Preprocessing",
-    "Network/Concepts/Training/Training.md",
+    "Fully Connected/Concepts/Forwardpropagation/Forward Propagation.md",
+    "Fully Connected/Concepts/Preprocessing/Initialization",
+    "Fully Connected/Concepts/Preprocessing/Hyperparameter.md",
+    "Fully Connected/Concepts/Postprocessing",
+    "Fully Connected/Concepts/Preprocessing",
+    "Fully Connected/Concepts/Training/Training.md",
     "Network/Concepts/Preprocessing/Hyperparameter",
     "Network/Concepts/Untitled.md",
-    "Network/Math/Matrix/Operations/Matrix Elementwise Operations.md",
-    "Network/Math/Matrix/Operations/Matrix Mean.md",
-    "Network/Math/Matrix/Operations/Matrix Multiplication.md",
-    "Network/Math/Matrix/Operations/Matrix Standard Deviation.md",
-    "Network/Concepts/Activation Function/Activation Function.md",
-    "Network/Concepts/Training",
-    "Network/Concepts/Preprocessing/Normalization/Decimal Scaling.md",
-    "Network/Concepts/Optimization",
-    "Network/Concepts/Gradient Descent/SDG.md",
-    "Network/Concepts/Preprocessing/Normalization/Z-Score Normalization.md",
-    "Network/Concepts/Preprocessing/Normalization/Min-Max Normalization.md",
-    "Network/Concepts/Backwardpropagation/Loss/MSE-Loss.md",
-    "Network/Definitions",
-    "Network/NeuralNetwork",
-    "Network/Math/Matrix/Operations",
-    "Network/Math/Matrix"
+    "Math/Matrix/Operations/Matrix Elementwise Operations.md",
+    "Math/Matrix/Operations/Matrix Mean.md",
+    "Math/Matrix/Operations/Matrix Multiplication.md",
+    "Math/Matrix/Operations/Matrix Standard Deviation.md",
+    "Fully Connected/Concepts/Activation Function/Activation Function.md",
+    "Fully Connected/Concepts/Training",
+    "Fully Connected/Concepts/Preprocessing/Normalization/Decimal Scaling.md",
+    "Fully Connected/Concepts/Optimization"
   ]
 }

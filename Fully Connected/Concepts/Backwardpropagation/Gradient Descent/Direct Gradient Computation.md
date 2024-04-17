@@ -2,8 +2,8 @@
 
 $W\_input = dot(norm\_input^T, loss * deriv(z1))$
 $W\_hidden = dot(a1^T, loss * deriv(z2))$
-$B\_hidden = sum(W\_input, axis=0)$
-$B\_output  = sum(W\_hidden, axis=0)$
+$B\_hidden = sum(W\_input, axis=1)$
+$B\_output  = sum(W\_hidden, axis=1)$
 
 Where:
 - $W\_input$: the Gradient of the weight from input-hidden

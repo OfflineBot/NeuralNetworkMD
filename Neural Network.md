@@ -1,9 +1,9 @@
 # Neural Network
 
 ## About:
-- [[Network/NeuralNetwork/Neural Network|Neural Network]]
+- [[Fully Connected/Concepts/Neural Network|Fully Connected Neural Network]]
 - [[Matrix]]
-- Concepts:
+- Contains:
 	- [[Activation Function]]
 	- [[Backward Propagation]]
 	- [[Forward Propagation]]

@@ -1,5 +1,6 @@
 # Neural Network
 Layout of the Neural Network:
+
 ### Layout:
 1. Getting Data
 	- Input Data
@@ -61,7 +62,7 @@ for x in range(iterations):
 		print(f"Loss: {loss} | Iteration: {x}")
 
 	# Backward Propagation
-	# Calculate Gradients
+	# Calculate Gradients (HERE Direct Gradient Computation)
 	w1_grad, w2_grad = ...
 	b1_grad, b2_grad = ...
 	# Apply Optimization Algorithm (HERE SGD)
